@@ -30,7 +30,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
-#include "main.h"
+```#include "main.h"
 
 #include "stdbool.h"
 
@@ -174,17 +174,19 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 #endif
 
-
+```
 
 ## Output  :
 
 
  <img src="https://github.com/22002102/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119091638/216abb40-863a-4eeb-8be8-097774a65937" width=475 height=475>
 
+
+<br>
+
  
 
- <img src="https://github.com/22002102/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119091638/9a4354d6-eed3-449f-97feb81a8b07fee1" width=475 height=475>
 
- 
-## Result :
-Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
+
+ <img src="https://github.com/22002102/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119091638/80587a5e-0941-4912-8664-dfeb6379c79d" width=475 height=475>
+
