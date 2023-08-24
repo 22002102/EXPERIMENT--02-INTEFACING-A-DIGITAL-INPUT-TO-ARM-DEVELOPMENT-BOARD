@@ -112,11 +112,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
+## LED OFF
 
  <img src="https://github.com/22002102/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119091638/216abb40-863a-4eeb-8be8-097774a65937" width=475 height=475>
 
 
 <br>
+
+## LED ON
 
  <img src="https://github.com/22002102/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119091638/80587a5e-0941-4912-8664-dfeb6379c79d" width=475 height=475>
 
